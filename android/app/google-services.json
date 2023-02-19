@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830753106631",
+    "project_id": "softareo-chat-internship",
+    "storage_bucket": "softareo-chat-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830753106631:android:9ef46312e34d1939646ce2",
+        "android_client_info": {
+          "package_name": "com.example.softareo_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830753106631-vl96s2agocenvrevddehr6jgjobhniqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.softareo_chat",
+            "certificate_hash": "50daa75c7c796ab1ff4cb1182df3c9bfb4e64e7f"
+          }
+        },
+        {
+          "client_id": "830753106631-b78h2u37uloi2ovikr4801c97rgpttb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAL0gbRRMUETXjNMkl_BVvmovfj5KEkek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830753106631-b78h2u37uloi2ovikr4801c97rgpttb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
